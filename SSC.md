@@ -1,4 +1,6 @@
 # SSC Assignments and Notes
+* TOC
+{:toc}
 
 # Trash
 ## General Marks/Assignments

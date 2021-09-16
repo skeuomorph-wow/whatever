@@ -2,14 +2,15 @@
 
 # Trash
 ## General Marks/Assignments
-💀: Skeu
-❌: Karb
-green triangle: Juiced
-purple ♦️: MD to Skeu
-🟠: MD to Karb
+- 💀: Skeu
+- ❌: Karb
+- green triangle: Juiced
+- purple ♦️: MD to Skeu
+- 🟠: MD to Karb
 
 ## Bat/Tamer/Screamer
-First packs in the instance leading up to Hydross
+First packs in the instance leading up to Hydross.
+Tremor Totems and Fear Wards
 
 ### Kill Order
 1. Screamer
@@ -46,6 +47,31 @@ Techs will probably just die in AOE
 ### Assignments
 - Honor Guard: Juiced
 - Preistesses/Shatterers/Techs: Karb/Skeu
+
+## Serpentguard/Skulker/Mage/Tidecaller/Lurkers/Shield-Breakers
+The messy packs before Leo. Totems are a priority, and we'll use a bit of CC.
+
+### Kill Order
+1. Lurker
+1. Tidecallers
+2. Unsheeped Mages
+3. Skulkers
+4. Serpentguards/Shield-Breakers
+
+### Assignments
+#### No Lurker Packs
+- 🐑 on 🌙: Mage
+- Tidecallers/Serpentguards/Mages/Shield-Breakers: Skeu/Karb
+- Skulkers: Juiced
+
+#### Lurker Packs
+- 🐑 on 🌙: Mage
+- Sap on ⭐ and 🟦: Rogues
+- Lurker: Skeu
+- Tidecallers/Serpentguards/Mages/Shield-Breakers: Karb
+- Skulkers: Juiced
+
+## Packs with Shield-Bearers
 
 
 # Bosses

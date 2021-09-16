@@ -71,8 +71,18 @@ The messy packs before Leo. Totems are a priority, and we'll use a bit of CC.
 - Tidecallers/Serpentguards/Mages/Shield-Breakers: Karb
 - Skulkers: Juiced
 
-## Packs with Shield-Bearers
+## Fathom-Witch/Serpentguard
+Just a few of these, the fathom-witches have a nasty AOE that can knock you into the water
 
+### Kill Order
+1. Fathom-Witches
+2. Serpentguards
+
+### Assignments
+#### No Lurker Packs
+- Witch 1: Skeu
+- Witch 2: Karb
+- Serpentguards: Juiced
 
 # Bosses
 ## Hydross

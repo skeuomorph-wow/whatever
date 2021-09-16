@@ -88,8 +88,41 @@ Just a few of these, the fathom-witches have a nasty AOE that can knock you into
 
 # Bosses
 ## Hydross
+### Assignments
+- Frost Rest: Skeu
+- Nature Res: Karb
+- Adds: Juiced
+
+Kill the initial couple adds.
+On transitions, banish 1 elemental and zerg the rest.
+Don't rebanish, kill the 4th elemental
+
 ## Lurker
+### Assignments
+- Boss: Skeu
+- SE OT: Karb
+- NE OT: Juiced
+
+TODO CC Assignments
+
 ## Leo
+### Assignments
+- Human MTs: Skeu/Karb
+- Demon: Gus
+- Juiced tank 1 of the initial adds (might drop and just pure cat eventually)
+
 ## Fathom Lord
+### Assignments
+- Boss/Hunter: Skeu
+- Shaman: Juiced
+- Priest: Karb
+
 ## Mogrim
+### Assignments
+- Boss: Juiced
+- Murlocs: Skeu/Karb
+
 ## Vashj
+### Assignments
+- MT: ??
+- OTs: Get MCs

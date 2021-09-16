@@ -4,11 +4,11 @@
 
 # Trash
 ## General Marks/Assignments
-- 💀: Skeu
-- ❌: Karb
-- green triangle: Juiced
-- purple ♦️: MD to Skeu
-- 🟠: MD to Karb
+- 💀: **Skeu**
+- ❌: **Karb**
+- green triangle:  **Juiced**
+- purple ♦️: MD to **Skeu**
+- 🟠: MD to **Karb**
 
 ## Bat/Tamer/Screamer
 First packs in the instance leading up to Hydross.
@@ -20,8 +20,8 @@ Tremor Totems and Fear Wards
 3. Tamer
 
 ### Assignments
-- Screams/Bats: Skeu/Karb
-- Tamer: Juiced
+- Screams/Bats: **Skeu**/**Karb**
+- Tamer:  **Juiced**
 
 ## Colossi
 Various places throughou the whole raid.
@@ -47,8 +47,8 @@ The packs around Lurker that you kill to boil the water.
 Techs will probably just die in AOE
 
 ### Assignments
-- Honor Guard: Juiced
-- Preistesses/Shatterers/Techs: Karb/Skeu
+- Honor Guard:  **Juiced**
+- Preistesses/Shatterers/Techs: **Karb**/**Skeu**
 
 ## Serpentguard/Skulker/Mage/Tidecaller/Lurkers/Shield-Breakers
 The messy packs before Leo. Totems are a priority, and we'll use a bit of CC.
@@ -63,15 +63,15 @@ The messy packs before Leo. Totems are a priority, and we'll use a bit of CC.
 ### Assignments
 #### No Lurker Packs
 - 🐑 on 🌙: Mage
-- Tidecallers/Serpentguards/Mages/Shield-Breakers: Skeu/Karb
-- Skulkers: Juiced
+- Tidecallers/Serpentguards/Mages/Shield-Breakers: **Skeu**/**Karb**
+- Skulkers:  **Juiced**
 
 #### Lurker Packs
 - 🐑 on 🌙: Mage
 - Sap on ⭐ and 🟦: Rogues
-- Lurker: Skeu
-- Tidecallers/Serpentguards/Mages/Shield-Breakers: Karb
-- Skulkers: Juiced
+- Lurker: **Skeu**
+- Tidecallers/Serpentguards/Mages/Shield-Breakers: **Karb**
+- Skulkers:  **Juiced**
 
 ## Fathom-Witch/Serpentguard
 Just a few of these, the fathom-witches have a nasty AOE that can knock you into the water
@@ -82,16 +82,16 @@ Just a few of these, the fathom-witches have a nasty AOE that can knock you into
 
 ### Assignments
 #### No Lurker Packs
-- Witch 1: Skeu
-- Witch 2: Karb
-- Serpentguards: Juiced
+- Witch 1: **Skeu**
+- Witch 2: **Karb**
+- Serpentguards:  **Juiced**
 
 # Bosses
 ## Hydross
 ### Assignments
-- Frost Rest: Skeu
-- Nature Res: Karb
-- Adds: Juiced
+- Frost Rest: **Skeu**
+- Nature Res: **Karb**
+- Adds:  **Juiced**
 
 Kill the initial couple adds.
 On transitions, banish 1 elemental and zerg the rest.
@@ -99,28 +99,28 @@ Don't rebanish, kill the 4th elemental
 
 ## Lurker
 ### Assignments
-- Boss: Skeu
-- SE OT: Karb
-- NE OT: Juiced
+- Boss: **Skeu**
+- SE OT: **Karb**
+- NE OT:  **Juiced**
 
 TODO CC Assignments
 
 ## Leo
 ### Assignments
-- Human MTs: Skeu/Karb
-- Demon: Gus
-- Juiced tank 1 of the initial adds (might drop and just pure cat eventually)
+- Human MTs: **Skeu**/**Karb**
+- Demon: **Gus**
+-  **Juiced** tank 1 of the initial adds (might drop and just pure cat eventually)
 
 ## Fathom Lord
 ### Assignments
-- Boss/Hunter: Skeu
-- Shaman: Juiced
-- Priest: Karb
+- Boss/Hunter: **Skeu**
+- Shaman:  **Juiced**
+- Priest: **Karb**
 
 ## Mogrim
 ### Assignments
-- Boss: Juiced
-- Murlocs: Skeu/Karb
+- Boss: **Juiced**
+- Murlocs: **Skeu**/**Karb**
 
 ## Vashj
 ### Assignments
